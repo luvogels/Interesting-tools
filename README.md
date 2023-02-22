@@ -17,3 +17,5 @@
 [PyGWalker](https://github.com/Kanaries/pygwalker)
 
 [Mellisearch](https://www.meilisearch.com/)
+
+[Beeware/Toga](https://github.com/beeware/toga)
