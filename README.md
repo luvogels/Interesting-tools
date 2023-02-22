@@ -15,3 +15,5 @@
 [Python benedict](https://pypi.org/project/python-benedict/#description)
 
 [PyGWalker](https://github.com/Kanaries/pygwalker)
+
+[Mellisearch](https://www.meilisearch.com/)
