@@ -19,3 +19,5 @@
 [Mellisearch](https://www.meilisearch.com/)
 
 [Beeware/Toga](https://github.com/beeware/toga)
+
+[WordStream Maker](https://github.com/huyen-nguyen/maker)
