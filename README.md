@@ -21,3 +21,5 @@
 [Beeware/Toga](https://github.com/beeware/toga)
 
 [WordStream Maker](https://github.com/huyen-nguyen/maker)
+
+[PyGWalker](https://github.com/Kanaries/pygwalker?utm_source=substack&utm_medium=email)
